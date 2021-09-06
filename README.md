@@ -5,8 +5,8 @@ Türkiye'nin En Kaliteli ve Ücretsiz Kod Paylaşım Sitesi | https://botclub.ne
 
 <h1> Ekstra Kullanım Şartları </h1>
 
-- Video çekerek paylaşma iznine sahipsiniz fakat video içerisinde bizden, sunucumuzdan bahsetmek zorundasınız.
-- Yazılı bir şekilde paylaşma iznine sahipsiniz fakat yazı içerisinden bizden, sunucumuzdan bahsetmek zorundasınız.
+- Video çekerek paylaşma iznine sahipsiniz fakat video içerisinde bizden, Siteden bahsetmek zorundasınız.
+- Yazılı bir şekilde paylaşma iznine sahipsiniz fakat yazı içerisinden bizden, Siteden bahsetmek zorundasınız.
 - Kullanma iznine sahipsiniz ve bu doğrultuda bizi Footer'a dahil etmelisiniz. Bunu yapmazsanız ve sizi keşfedersek, bunun sizin için iyi bir seçim olmadığını söylemek isterim.
 - "Biz yaptık" şekilde konuşamazsın.
 - Satışını yapamazsınız.
